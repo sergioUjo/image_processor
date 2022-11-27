@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "jimp": "^0.16.2"
+  }
+}
